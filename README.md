@@ -19,3 +19,7 @@ Clone or download the repository and open the `index.html` file in a web browser
 
 ```bash
 git clone https://github.com/yourusername/UPSC-landing-page.git
+
+
+This gives visitors to your GitHub repository an overview of the UPSC services the landing page is designed for, and instructions on how to use the code.
+
